@@ -94,70 +94,7 @@ window.addEventListener('resize', () => {
 
 window.initGallery = function() {
   const images = [
-    'images/gallery/marius_barbuta_image-064.jpg',
-    'images/gallery/marius_barbuta_image-063.jpg',
-    'images/gallery/marius_barbuta_image-062.jpg',
-    'images/gallery/marius_barbuta_image-061.jpg',
-    'images/gallery/marius_barbuta_image-060.jpg',
-    'images/gallery/marius_barbuta_image-059.jpg',
-    'images/gallery/marius_barbuta_image-058.jpg',
-    'images/gallery/marius_barbuta_image-057.jpg',
-    'images/gallery/marius_barbuta_image-056.jpg',
-    'images/gallery/marius_barbuta_image-055.jpg',
-    'images/gallery/marius_barbuta_image-054.jpg',
-    'images/gallery/marius_barbuta_image-053.jpg',
-    'images/gallery/marius_barbuta_image-052.jpg',
-    'images/gallery/marius_barbuta_image-051.jpg',
-    'images/gallery/marius_barbuta_image-050.jpg',
-    'images/gallery/marius_barbuta_image-049.jpg',
-    'images/gallery/marius_barbuta_image-048.jpg',
-    'images/gallery/marius_barbuta_image-047.jpg',
-    'images/gallery/marius_barbuta_image-046.jpg',
-    'images/gallery/marius_barbuta_image-045.jpg',
-    'images/gallery/marius_barbuta_image-044.jpg',
-    'images/gallery/marius_barbuta_image-043.jpg',
-    'images/gallery/marius_barbuta_image-042.jpg',
-    'images/gallery/marius_barbuta_image-041.jpg',
-    'images/gallery/marius_barbuta_image-040.jpg',
-    'images/gallery/marius_barbuta_image-039.jpg',
-    'images/gallery/marius_barbuta_image-038.jpg',
-    'images/gallery/marius_barbuta_image-037.jpg',
-    'images/gallery/marius_barbuta_image-036.jpg',
-    'images/gallery/marius_barbuta_image-035.jpg',
-    'images/gallery/marius_barbuta_image-034.jpg',
-    'images/gallery/marius_barbuta_image-033.jpg',
-    'images/gallery/marius_barbuta_image-032.jpg',
-    'images/gallery/marius_barbuta_image-031.jpg',
-    'images/gallery/marius_barbuta_image-030.jpg',
-    'images/gallery/marius_barbuta_image-029.jpg',
-    'images/gallery/marius_barbuta_image-028.jpg',
-    'images/gallery/marius_barbuta_image-027.jpg',
-    'images/gallery/marius_barbuta_image-026.jpg',
-    'images/gallery/marius_barbuta_image-025.jpg',
-    'images/gallery/marius_barbuta_image-024.jpg',
-    'images/gallery/marius_barbuta_image-023.jpg',
-    'images/gallery/marius_barbuta_image-022.jpg',
-    'images/gallery/marius_barbuta_image-021.jpg',
-    'images/gallery/marius_barbuta_image-020.jpg',
-    'images/gallery/marius_barbuta_image-019.jpg',
-    'images/gallery/marius_barbuta_image-018.jpg',
-    'images/gallery/marius_barbuta_image-017.jpg',
-    'images/gallery/marius_barbuta_image-016.jpg',
-    'images/gallery/marius_barbuta_image-015.jpg',
-    'images/gallery/marius_barbuta_image-014.jpg',
-    'images/gallery/marius_barbuta_image-013.jpg',
-    'images/gallery/marius_barbuta_image-012.jpg',
-    'images/gallery/marius_barbuta_image-011.jpg',
-    'images/gallery/marius_barbuta_image-010.jpg',
-    'images/gallery/marius_barbuta_image-009.jpg',
-    'images/gallery/marius_barbuta_image-008.jpg',
-    'images/gallery/marius_barbuta_image-007.jpg',
-    'images/gallery/marius_barbuta_image-006.jpg',
-    'images/gallery/marius_barbuta_image-005.jpg',
-    'images/gallery/marius_barbuta_image-004.jpg',
-    'images/gallery/marius_barbuta_image-003.jpg',
-    'images/gallery/marius_barbuta_image-002.jpg',
-    'images/gallery/marius_barbuta_image-001.jpg',
+
     // Add more image paths as needed
   ];
 
@@ -467,3 +404,6 @@ window.addEventListener("load", hamburgerScroll);
 document.addEventListener("DOMContentLoaded", function() {
   scrollToTop();
 });
+
+
+

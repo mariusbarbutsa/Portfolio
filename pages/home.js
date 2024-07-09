@@ -60,7 +60,7 @@ export default class HomePage {
             <div class="project-box-header">
               <div class="project-box-header-mobile">
                 <div class="project-box-header-video-mobile">
-                  <video src="images/project/project04/gogetgreen-video.webm" autoplay loop muted></video>
+                  <! --<video src="images/project/project04/gogetgreen-video.webm" autoplay loop muted></video>
                 </div>
                 <div class="project-box-header-mobile-grid">
                   <div class="project-box-header-mobile-grid-image">
@@ -88,7 +88,8 @@ export default class HomePage {
         <div class="project-box">
             <div class="project-box-header">
             <div class="project-box-header-video">
-                  <video src="images/project/project03/concept_rotation.webm" autoplay loop muted></video>
+              <img src="images/project/project03/concept_rotation.gif" height="100%">
+                  <! --<video poster="images/project/project03/SunglassesConcept_Slider_03.jpg" src="images/project/project03/concept_rotation.webm" autoplay loop muted></video>
             </div>
             <div class="project-box-labels">
                 <span class="project-box-label">Sunglasses Concept / 02</span>
@@ -102,7 +103,7 @@ export default class HomePage {
             <div class="project-box-header">
               <div class="project-box-header-mobile">
                 <div class="project-box-header-video-mobile">
-                  <video src="images/project/project05/babysam-video.mp4" autoplay loop muted></video>
+                  <! --<video src="images/project/project05/babysam-video.mp4" autoplay loop muted></video>
                 </div>
                 <div class="project-box-header-mobile-grid">
                   <div class="project-box-header-mobile-grid-image">
@@ -130,7 +131,7 @@ export default class HomePage {
         <div class="project-box">
             <div class="project-box-header">
             <div class="project-box-header-video">
-              <video src="images/project/project01/jobportal_video.webm" autoplay loop muted></video>
+              <! --<video src="images/project/project01/jobportal_video.webm" autoplay loop muted></video>
             </div>
                 <div class="project-box-labels">
                     <span class="project-box-label">BAAA Job Portal / 04</span>
@@ -144,7 +145,7 @@ export default class HomePage {
             <div class="project-box-header">
               <div class="project-box-header-mobile">
                 <div class="project-box-header-video-mobile">
-                  <video src="images/project/project06/advchallenge-video.webm" autoplay loop muted></video>
+                  <! --<video src="images/project/project06/advchallenge-video.webm" autoplay loop muted></video>
                 </div>
                 <div class="project-box-header-mobile-grid">
                   <div class="project-box-header-mobile-grid-image">
@@ -172,7 +173,7 @@ export default class HomePage {
         <div class="project-box">
             <div class="project-box-header">
                 <div class="project-box-header-video">
-                  <video src="images/project/project02/enterpriseSoftware-video.webm" autoplay loop muted></video>
+                  <! --<video src="images/project/project02/enterpriseSoftware-video.webm" autoplay loop muted></video>
                 </div>
                 <div class="project-box-labels">
                     <span class="project-box-label">Enterprise Software Redesign / 06</span>

@@ -478,6 +478,18 @@ body {
   padding: 0.3rem;
 }
 
+/* Specific styles for Firefox */
+@-moz-document url-prefix() {
+  .project-box-header-video {
+    width: 76%;
+  }
+
+  .project-box-header-mobile{
+  width: 76%;
+}
+
+}
+
 .project-box-header-mobile{
   position: absolute;
   top: 47%;
